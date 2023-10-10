@@ -2,7 +2,7 @@
   "profiles": {
     "TMXConverter": {
       "commandName": "Project",
-      "commandLineArgs": "\"F:\\Reloaded-II\\Mods\\p3ppc.test.sprmergetest\\FEmulator\\SPD\\title\\title.bin\\moon.spr\\spr_0.tmx\" -o \"F:\\Reloaded-II\\Mods\\p3ppc.test.sprmergetest\\FEmulator\\SPD\\title\\title.bin\\moon.spr\\spr_2.png\""
+      "commandLineArgs": "\"Screenshot 2023-01-21 003408.png\""
     }
   }
 }
